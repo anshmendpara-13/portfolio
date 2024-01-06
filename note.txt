@@ -1,0 +1,13 @@
+For create react website
+npm create vite@latest ./ -- --template react
+
+tailwind css 
+threejs
+framer motion
+3D models
+geometries
+emailjs
+
+--legacy-peer-deps for older package use
+
+
